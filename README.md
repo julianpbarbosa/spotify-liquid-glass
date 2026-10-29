@@ -4,6 +4,8 @@ Um tema de **vidro líquido** para o Spotify no Windows: painéis translúcidos,
 
 Feito sobre o [Spicetify](https://spicetify.app/) e o tema [Hazy](https://github.com/Astromations/Hazy). É só CSS + uma extensão em JavaScript. Não modifica o programa do Spotify de forma permanente e dá para desfazer com um comando.
 
+▶️ **[Ver vídeo de demonstração (48 s, sem som)](docs/previews/Video_Exemplo.mp4)**
+
 ![Página inicial com o tema](docs/previews/Exemplo01.png)
 
 ![Outra música, outra cor](docs/previews/Exemplo02.png)
